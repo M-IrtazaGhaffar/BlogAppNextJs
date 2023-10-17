@@ -1,0 +1,13 @@
+import React from 'react'
+
+function page() {
+  return (
+    <div className='flex flex-col justify-center items-center gap-5 sm:gap-10 p-5 sm:p-10'>
+      <div className='text-3xl underline underline-offset-8'>About Us</div>
+      <div className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia autem sit voluptate ullam qui atque eligendi consequuntur illum nulla beatae ipsum tempora excepturi quidem ex, suscipit veniam doloremque molestias at nemo magnam vitae. Eveniet exercitationem sapiente explicabo soluta omnis, nulla facilis officia non alias tempore a ex? Cumque minus nisi consequuntur, nostrum dolor ad nobis accusamus laborum asperiores temporibus. Nemo quaerat quasi pariatur ad? Asperiores provident aliquid eligendi eos excepturi at soluta, eveniet fuga dolore temporibus ex molestias nam necessitatibus nesciunt delectus dolorum vero error quisquam blanditiis nulla repudiandae similique omnis repellendus? Praesentium officiis fugit, rerum quo dignissimos eos atque sint recusandae omnis, cupiditate veritatis fugiat mollitia est ab enim eius animi perferendis obcaecati architecto ex ratione quisquam vel? Distinctio beatae maxime quam expedita consequatur, enim fugiat sequi laboriosam quas quae officia illo soluta similique voluptatem ducimus esse nulla dolore autem veritatis iusto est aliquid excepturi. Commodi praesentium quo est?</div>
+      <div className='text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia autem sit voluptate ullam qui atque eligendi consequuntur illum nulla beatae ipsum tempora excepturi quidem ex, suscipit veniam doloremque molestias at nemo magnam vitae. Eveniet exercitationem sapiente explicabo soluta omnis, nulla facilis officia non alias tempore a ex? Cumque minus nisi consequuntur, nostrum dolor ad nobis accusamus laborum asperiores temporibus. Nemo quaerat quasi pariatur ad? Asperiores provident aliquid eligendi eos excepturi at soluta, eveniet fuga dolore temporibus ex molestias nam necessitatibus nesciunt delectus dolorum vero error quisquam blanditiis nulla repudiandae similique omnis repellendus? Praesentium officiis fugit, rerum quo dignissimos eos atque sint recusandae omnis, cupiditate veritatis fugiat mollitia est ab enim eius animi perferendis obcaecati architecto ex ratione quisquam vel? Distinctio beatae maxime quam expedita consequatur, enim fugiat sequi laboriosam quas quae officia illo soluta similique voluptatem ducimus esse nulla dolore autem veritatis iusto est aliquid excepturi. Commodi praesentium quo est?</div>
+    </div>
+  )
+}
+
+export default page
